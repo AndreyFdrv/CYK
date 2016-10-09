@@ -1,0 +1,12 @@
+(n*n)+n*n
+S->AH|BI|n|FJ
+A->AH|BI|n|FJ
+B->BI|n|FJ
+C->n|FJ
+D->+
+E->*
+F->(
+G->)
+H->DB
+I->EC
+J->AG

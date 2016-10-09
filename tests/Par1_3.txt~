@@ -1,0 +1,6 @@
+())
+S->BD|AA|eps
+A->BD|AA
+B->(
+C->)
+D->AC|)

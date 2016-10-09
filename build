@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo apt-get install gcc
+gcc -c main.cpp
+gcc main.o normalization.o -o CYK
